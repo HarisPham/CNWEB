@@ -1,0 +1,41 @@
+Câu 1: Thành phần nào sau đây KHÔNG phải là một thành phần giao diện người dùng (UI) trong Android
+A. TextView
+B. Button
+C. Service
+D. ImageView
+Đáp án: C
+
+Câu 2: Layout nào thường được sử dụng để sắp xếp các thành phần UI theo chiều dọc hoặc chiều ngang
+A. RelativeLayout
+B. LinearLayout
+C. FrameLayout
+D. ConstraintLayout
+Đáp án: B
+
+Câu 3: Cơ quan hành chính nào có thẩm quyền cao nhất ở Việt Nam?
+A. Chính phủ
+B. Bộ, cơ quan ngang bộ
+C. Ủy ban nhân dân các cấp
+D. Quốc hội
+Đáp án: A
+
+Câu 4: Chế định "Tội phạm" thuộc ngành luật nào?
+A. Ngành luật Hành chính
+B. Ngành luật Tố tụng hình sự
+C. Ngành luật Dân sự
+D. Ngành luật Hình sự
+Đáp án: D
+
+Câu 5: Thành phần nhỏ nhất cấu tạo nên bộ nhớ bán dẫn là:
+A. Ô nhớ (memory cell)
+B. Từ nhớ
+C. Ngăn nhớ
+D. Khối nhớ
+Đáp án: A
+
+Câu 6: Thành phần nào của máy tính thực hiện chức năng xử lý dữ liệu và điều khiền hoạt động của máy tính?
+A. Bộ nhớ chính
+B. Bộ phận nhập xuất thông tin
+C. CPU
+D. Bus hệ thống
+Đáp án: C
